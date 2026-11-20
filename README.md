@@ -1,2 +1,1 @@
-# Minor-Code-Storage
-A couple of really small pieces of code made for fun or at school.
+# [(kyu 7) Coding 3min : A*B=C](https://www.codewars.com/kata/5714803d2817ffce17000a35)
